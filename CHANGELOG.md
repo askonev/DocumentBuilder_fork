@@ -1,5 +1,26 @@
 # Change log
 
+## 8.1.0
+
+[changelog](https://api.onlyoffice.com/officeapi/changelog#81)
+
+## Common
+
+### Document editor
+
+* `ApiDateForm` class
+* Methods for setting text properties
+* Methods for moving a cursor
+* RGB color methods
+
+### Spreadsheet editor
+
+* Expanding the list of Worksheet functions
+* Protected range methods
+* Reference style methods
+* Methods for pasting / cutting ranges
+* Custom function
+
 ## 8.0.0
 
 ### Security
